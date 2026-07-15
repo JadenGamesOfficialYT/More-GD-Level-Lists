@@ -5,4 +5,4 @@ ay ay ay step away from that copy/fork button, read the license first
 
 # Platformer Demon List
 
-Click [here](https://google.com) to get to it. (not done yet)
+Click [here](https://docs.google.com/document/d/10posMf3rBza0Eyqo6rhOOmLSrLABOomt3CHvVCQd7Iw/edit?tab=t.0) to get to the page.
